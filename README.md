@@ -16,12 +16,10 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ![imAGE](2.png)
 
-
-
 ## Experiment:
+![image](https://github.com/roshinithangachamy/Single-server-infinite-capacity---Markov-Model/assets/147118341/b7e07b15-2718-421b-a37a-9e18ccdfa04d)
+![image](https://github.com/roshinithangachamy/Single-server-infinite-capacity---Markov-Model/assets/147118341/32fb4406-b65e-4cb7-9eb2-4d8c5c9392d7)
 
-
- 
 ## Program
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -53,4 +51,5 @@ print("---------------------------------------------------------------")
 ![image](https://github.com/hindhujanaki/Single-server-infinite-capacity---Markov-Model/assets/148514666/d1ba838a-7aca-494b-b41e-baf53101abc6)
 
 ## Result :
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
 
